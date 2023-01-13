@@ -1,1 +1,4 @@
-# new_project
+# AECPA
+Análisis Espectral;
+Correlación Cruzada;
+Predición ARIMA.
