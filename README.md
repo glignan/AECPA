@@ -12,22 +12,22 @@ Vista del menú principal del programa AECPA:
   <img src="data/02.png" width="50%" height="50%"></img>
 </p>
 
-se abra el explorador de Windows, donde se puede seleccionar el archivo con los datos iniciales:
+Se abre el explorador de Windows, donde se puede seleccionar el archivo con los datos iniciales:
 <p align="center">
   <img src="data/03.png" width="50%" height="50%"></img>
 </p>
 
-Al seleccionar el archivo, hay que escribir el nombre de la hoja de Excel donde se encuentran los datos, también el numero de la columna de fechas y numero de la columna de la serie investigada, después oprimir el botón de “Continuar”: 
+Al seleccionar el archivo, hay que escribir el nombre de la hoja de Excel donde se encuentran los datos, también el número de la columna de fechas y número de la columna de la serie investigada, después oprimir el botón de “Continuar”: 
 <p align="center">
   <img src="data/04.png" width="50%" height="50%"></img>
 </p>
 
-En el siguiente paso se puede escribir los nombres de títulos de la figura y de los ejes, y oprimir el botón “Continuar”:
+En el siguiente paso se puede escribir los nombres de títulos de la figura y de los ejes, después oprimir el botón de “Continuar”:
 <p align="center">
   <img src="data/05.png" width="50%" height="50%"></img>
 </p>
 
-se abra el explorador de Windows, donde se puede escribir el nombre de la figura para grabar:
+Se abre el explorador de Windows, donde se puede escribir el nombre de la figura para grabar:
 <p align="center">
   <img src="data/06.png" width="50%" height="50%"></img>
 </p>
@@ -43,12 +43,12 @@ Al grabar la figura, también se visualiza en la pantalla:
   <img src="data/08.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar el cálculo de la densidad espectral:
+Al oprimir se abre el explorador de Windows, para seleccionar el archivo de datos para realizar el cálculo de la densidad espectral:
 <p align="center">
   <img src="data/09.png" width="50%" height="50%"></img>
 </p>
 
-Donde se escribe el nombre de la hoja de Excel donde se encuentran los datos, también el numero de la columna de fechas y numero de la columna de la serie investigada, después se oprimira el botón de “Continuar”: 
+Se escribe el nombre de la hoja de Excel donde se encuentran los datos, también el núero de la columna de fechas y número de la columna de la serie investigada, después oprimir el botón de “Continuar”: 
 <p align="center">
   <img src="data/10.png" width="50%" height="50%"></img>
 </p>
@@ -58,12 +58,13 @@ En el siguiente paso se escribe los nombres de título de la figura y de los eje
   <img src="data/11.png" width="50%" height="50%"></img>
 </p>
 
-Oprimiendo el botón “Continuar” aparece el gráfico de la densidad espectral de la serie:
+Al oprimir el botón “Continuar” aparece el gráfico de la densidad espectral de la serie:
 <p align="center">
   <img src="data/12.png" width="50%" height="50%"></img>
 </p>
 
-en este grafico hay que seleccionar las frecuencias de los cuasi períodos que dan mayor aporte en la serie, grabando los datos de las frecuencias limites inferiores y superiores de cado pico seleccionado. Apuntando con el cursor a cada frecuencia límite (inferior o superior) del pico seleccionado en el parte inferior derecho del grafico aparecen las coordenadas “x=0.0347 y=10.1”, donde el “x” muestra la frecuencia del límite apuntado, el cual hay que grabar para los siguientes procedimientos:
+En este grafico se muestran las densidades espectrales de la serie analizada.
+Apuntando con el cursor en la parte inferior derecha de la gráfica aparecen las coordenadas del cursor en la gráfica, por ejemplo “x=0.0347 y=10.1”, donde “x” muestra la frecuencia del límite apuntado. Así se pueden obtener los valores de cada frecuencia límite (inferior o superior) del pico seleccionado, los cual se pueden escribir en una hoja para los siguientes procedimientos:
 <p align="center">
   <img src="data/13.png" width="50%" height="50%"></img>
 </p>
@@ -74,28 +75,30 @@ en este grafico hay que seleccionar las frecuencias de los cuasi períodos que d
   <img src="data/14.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar el filtro pasa banda:
+Al oprimir se abre el explorador de Windows, en el cual se selecciona el archivo de datos para realizar el filtro pasa banda:
 <p align="center">
   <img src="data/15.png" width="50%" height="50%"></img>
 </p>
 
-Donde se escribe el nombre de la hoja de Excel donde se encuentran los datos, también el numero de la columna de fechas y numero de la columna de la serie investigada, después se oprimirá el botón de “Continuar”: 
+Se escribe el nombre de la hoja de Excel donde se encuentran los datos, también el número de la columna de fechas y número de la columna de la serie analizada, después oprimir el botón de “Continuar”: 
 <p align="center">
   <img src="data/16.png" width="50%" height="50%"></img>
 </p>
 
-En el siguiente paso hay que llenar todas las casillas para sacar las componentes determinadas de la serie inicial, grabar las componentes extraídas por separado en el archivo Excel y mostrar el grafico con las componentes extraídas:  
+En el siguiente paso hay que llenar todas de las casillas para extraer los componentes determinados de la serie inicial.
+En la casilla cuasi periodos: se escriben todos los periodos de los picos elegidos, separados por coma ",".
+En la casilla FLI: se escriben todos las frecuencias izquierdas en el mismo orden de los picos elegidos, separados por coma ",".
+En la casilla FLS: se escriben todos las frecuencias derechas en el mismo orden de los picos elegidos, separados por coma ",".
+Al oprimir el boton "Continuar" se graban los componentes extraídos en el archivo Excel y se mostra la grafica con los componentes extraídas:  
 <p align="center">
   <img src="data/17.png" width="50%" height="50%"></img>
 </p>
-
-Se muestran gráficamente la serie inicial y sus principales componentes extraídas: 
 <p align="center">
   <img src="data/18.png" width="50%" height="50%"></img>
 </p>
 
 ### Exit
-### Sierra y sale el programa:
+Cierra el programa:
 
 <p align="center">
   <img src="data/19.png" width="50%" height="50%"></img>
@@ -107,12 +110,12 @@ Se muestran gráficamente la serie inicial y sus principales componentes extraí
   <img src="data/20.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar Correlación de Pearson:
+Al oprimir se abre el explorador de Windows, para seleccionar el archivo de datos para realizar la Correlación de Pearson:
 <p align="center">
   <img src="data/21.png" width="50%" height="50%"></img>
 </p>
 
-Después de elegir el archivo, en el siguiente paso hay que escribir nombres de las hojas de la primera y segunda series y sus respectivas numeras de columnas donde ellas se encuentran:
+Después de elegir el archivo, se escriben los nombres de las hojas de la primera y segunda serie y sus respectivas numeros de las columnas donde se encuentran:
 <p align="center">
   <img src="data/22.png" width="50%" height="50%"></img>
 </p>
@@ -128,17 +131,17 @@ Se muestran los resultados del coeficiente de correlación:
   <img src="data/24.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar Correlación cruzada:
+Al oprimir se abre el explorador de Windows, se selecciona el archivo de datos para realizar Correlación cruzada:
 <p align="center">
   <img src="data/25.png" width="50%" height="50%"></img>
 </p>
 
-Después de elegir el archivo, en el siguiente paso hay que escribir nombres de las hojas de la primera y segunda series y sus respectivas numeras de columnas donde ellas se encuentran y el numero de la columna con las fechas:
+Después de elegir el archivo, se escriben los nombres de las hojas de la primera y segunda serie y sus respectivos numeros de las columnas donde se encuentran y el número de la columna con las fechas:
 <p align="center">
   <img src="data/26.png" width="50%" height="50%"></img>
 </p>
 
-Los resultados de la Correlación cruzada de dos series:
+Resultados de la Correlación cruzada:
 <p align="center">
   <img src="data/27.png" width="50%" height="50%"></img>
 </p>
@@ -149,21 +152,20 @@ Los resultados de la Correlación cruzada de dos series:
   <img src="data/28.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar Análisis de regresión:
+Al oprimir se abre el explorador de Windows, se selecciona el archivo de datos para realizar el Análisis de regresión:
 <p align="center">
   <img src="data/29.png" width="50%" height="50%"></img>
 </p>
 
-en el siguiente paso hay que escribir nombres de la hoja de datos, el numero de la columna con las fechas, el número de la columna de la variable dependiente y la cantidad de variables independientes:
+Después de elegir el archivo, se escriben los nombres de la hoja de datos, el número de la columna con las fechas, el número de la columna de la variable dependiente y la cantidad de variables independientes:
 <p align="center">
   <img src="data/30.png" width="50%" height="50%"></img>
 </p>
 
-Después hay que escribir el numero de la columna de la variable independiente 1 y etc.:
+Por cada variable independiente se escribe su respectivo número de la columna y se oprime "Continuar":
 <p align="center">
   <img src="data/31.png" width="50%" height="50%"></img>
 </p>
-La segunda:
 <p align="center">
   <img src="data/32.png" width="50%" height="50%"></img>
 </p>
@@ -177,14 +179,14 @@ Resultados del análisis de regresión:
   <img src="data/34.png" width="50%" height="50%"></img>
 </p>
 
-Resultado análisis de regresión grafico:
+Resultado análisis de regresión gráfica:
 <p align="center">
   <img src="data/35.png" width="50%" height="50%"></img>
 </p>
 
 
 ### Exit
-### Sierra y sale el programa:
+Cierra el programa:
 
 <p align="center">
   <img src="data/36.png" width="50%" height="50%"></img>
@@ -196,17 +198,17 @@ Resultado análisis de regresión grafico:
   <img src="data/37.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para realizar Análisis de parámetros ARIMA:
+Al oprimir se abre el explorador de Windows, se selecciona el archivo de datos para realizar Análisis de parámetros ARIMA:
 <p align="center">
   <img src="data/38.png" width="50%" height="50%"></img>
 </p>
 
-Escribir los nombres de la hoja del excel de la variable que se va utilizar, la fecha en que se inicia la serie, el nombre de la columna de la serie y varios parámetros del modelo ARIMA (https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html ):
+Escribir el nombre de la hoja del Excel de la variable que se va utilizar, la fecha en que se inicia la serie, el nombre de la columna de la serie y varios [parámetros del modelo ARIMA](https://alkaline-ml.com/pmdarima/modules/generated/pmdarima.arima.auto_arima.html ):
 <p align="center">
   <img src="data/39.png" width="50%" height="50%"></img>
 </p>
 
-Después del cálculo de los parámetros del modelo ARIMA, se muestran los resultado (se graban los resultados del modelo SARIMAX(2, 0, 3)x(2, 1, 0, 12)):
+Después del cálculo de los parámetros del modelo ARIMA, se muestran los resultados de los cuales se escriben en una hoja los resultados del modelo, por ejemplo "SARIMAX(2, 0, 3)x(2, 1, 0, 12)":
 <p align="center">
   <img src="data/40.png" width="50%" height="50%"></img>
 </p>
@@ -217,12 +219,12 @@ Después del cálculo de los parámetros del modelo ARIMA, se muestran los resul
   <img src="data/41.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para ver los resultados del Test ARIMA con los mismos datos para los cuales fue realizado el cálculo de los parámetros del modelo ARIMA:
+Al oprimir se abre el explorador de Windows, se selecciona el archivo de datos para ver los resultados del Test ARIMA con los mismos datos con los cuales fue realizado el cálculo de los parámetros del modelo ARIMA:
 <p align="center">
   <img src="data/42.png" width="50%" height="50%"></img>
 </p>
 
-Se elige la serie de datos para la cual fueron calculados los parámetros del modelo ARIMA y los resultados del modelo SARIMAX:
+Se elige la serie de datos para el cual fueron calculados los parámetros del modelo ARIMA y los resultados del modelo SARIMAX:
 <p align="center">
   <img src="data/43.png" width="50%" height="50%"></img>
 </p>
@@ -243,12 +245,12 @@ Resultados gráficos de SARIMAX:
   <img src="data/46.png" width="50%" height="50%"></img>
 </p>
 
-Se escriban la cantidad de meses para predicción y los nombres del título de la figura y de los ejes:
+Se escribe la cantidad de meses para la predicción y los nombres del título de la figura y de los ejes:
 <p align="center">
   <img src="data/47.png" width="50%" height="50%"></img>
 </p>
 
-El resultado grafico del pronóstico de la serie inicial para los 36 meses:
+El resultado gráfico del pronóstico de la serie inicial para los 36 meses:
 <p align="center">
   <img src="data/48.png" width="50%" height="50%"></img>
 </p>
@@ -259,12 +261,12 @@ El resultado grafico del pronóstico de la serie inicial para los 36 meses:
   <img src="data/49.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos para mostrar grafico con la serie inicial, sus componentes y el pronóstico:
+Al oprimir se abre el explorador de Windows, se selecciona el archivo de datos para mostrar el gráfico con la serie inicial, sus componentes y el pronóstico:
 <p align="center">
   <img src="data/50.png" width="50%" height="50%"></img>
 </p>
 
-Elegir los datos para el grafico con varios componentes:
+Elegir los datos para el gráfico con varios componentes:
 <p align="center">
   <img src="data/51.png" width="50%" height="50%"></img>
 </p>
@@ -274,7 +276,6 @@ Escribir el nombre de grafico para grabar:
   <img src="data/52.png" width="50%" height="50%"></img>
 </p>
 
-EL grafico: 
 <p align="center">
   <img src="data/53.png" width="50%" height="50%"></img>
 </p>
@@ -285,22 +286,20 @@ EL grafico:
   <img src="data/54.png" width="50%" height="50%"></img>
 </p>
 
-Al oprimir se abra el explorador de Windows, para seleccionar el archivo de datos:
+Al oprimir se abre el explorador de Windows, para seleccionar el archivo de datos:
 <p align="center">
   <img src="data/55.png" width="50%" height="50%"></img>
 </p>
 
-Escribir datos para el garfcio:
+Escribir datos para el gráfico:
 <p align="center">
   <img src="data/56.png" width="50%" height="50%"></img>
 </p>
 
-Escribir el nombre de grafico para grabar:
 <p align="center">
   <img src="data/57.png" width="50%" height="50%"></img>
 </p>
 
-El grafico:
 <p align="center">
   <img src="data/58.png" width="50%" height="50%"></img>
 </p>
@@ -316,7 +315,7 @@ El grafico:
 
 ### Help – Ayuda:
 
-Se direcciona a la página de GitHub https://github.com/glignan/AECPA/blob/main/README.md donde se muestra la ayuda con el presente programa:
+Abre la presente página de GitHub:
 <p align="center">
   <img src="data/61.png" width="50%" height="50%"></img>
 </p>
