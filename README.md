@@ -58,6 +58,14 @@ En el siguiente paso se escribe los nombres de título de la figura y de los eje
   <img src="data/11.png" width="50%" height="50%"></img>
 </p>
 
+<p align="center">
+  <img src="data/11.1.png" width="50%" height="50%"></img>
+</p>
+
+<p align="center">
+  <img src="data/11.2.png" width="50%" height="50%"></img>
+</p>
+
 Al oprimir el botón “Continuar” aparece el gráfico de la densidad espectral de la serie:
 <p align="center">
   <img src="data/12.png" width="50%" height="50%"></img>
